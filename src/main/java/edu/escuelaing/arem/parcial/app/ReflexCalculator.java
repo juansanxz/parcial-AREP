@@ -88,13 +88,7 @@ public class ReflexCalculator {
         serverSocket.close();
     }
 
-    private static ArrayList<Integer> quickSort (String[] unsortedList, int start, int end){
-        if (start < end)
-        {
 
-        }
-        return null;
-    }
 
 
 }
